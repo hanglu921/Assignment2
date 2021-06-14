@@ -394,7 +394,7 @@ namespace Programming_Assignment_2_Summer_2021
         //Question 8
         /// <summary>
         //Given an array, rotate the array to the right by k steps, where k is non-negative.
-        //Print the Final array after rotation.
+        //Print the Final array after  rotation.
         //Example 1:
         //Input: nums = [1, 2, 3, 4, 5, 6, 7], k = 3
         //Output: [5,6,7,1,2,3,4]
